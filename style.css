@@ -15,7 +15,7 @@ body {
     padding: 20px;
 }
 
-.display {
+#display {
     width: 230px;
     height: 50px;
     margin-bottom: 20px;
